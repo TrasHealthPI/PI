@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background: url('./Images/fundo.png') center center/cover no-repeat;
+}
+
+a{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    
+}
+
+b{
+    display: flex;
+    width: 575px;
+    height: 700px;
+    border: 0px;
+}
